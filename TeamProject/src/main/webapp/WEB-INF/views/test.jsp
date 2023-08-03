@@ -8,6 +8,6 @@
 </head>
 <body>
 	test for commit 1. 
-	
+	commit after reset
 </body>
 </html>
