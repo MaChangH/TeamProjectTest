@@ -15,6 +15,7 @@
 	
 	.gitignore를 했는데 왜 .metadata가 올라가지?
 	.gitignore에 windows / maven 추가 후 다시
-	.git final
+	.git final]
+	이거도 바꿧는데 알아낼수 있니??
 </body>
 </html>
