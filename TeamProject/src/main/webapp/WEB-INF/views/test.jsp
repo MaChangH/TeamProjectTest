@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	test for commit 1. 
-	commit after reset
+	this is apple
+	
 </body>
 </html>
