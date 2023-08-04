@@ -14,6 +14,11 @@ insert into tp_board (tp_b_no, tp_b_writer, tp_b_title, tp_b_txt, tp_b_when) val
 insert into tp_board (tp_b_no, tp_b_writer, tp_b_title, tp_b_txt, tp_b_when) values(tp_board_seq.nextval, '테스트1', '테스트용 글', '테스트용 게시글의 내용', sysdate);
 insert into tp_board (tp_b_no, tp_b_writer, tp_b_title, tp_b_txt, tp_b_when) values(tp_board_seq.nextval, '테스트a', 'test', 'text for test', sysdate);
 
+select * from tp_board
+insert into tp_board (tp_b_no, tp_b_writer, tp_b_title, tp_b_txt, tp_b_when, tp_b_notice) values (tp_board_seq.nextval, '테스트a', 'test', 'text for test', sysdate,'가');
+insert into tp_board (tp_b_no, tp_b_writer, tp_b_title, tp_b_txt, tp_b_when, tp_b_notice) values (tp_board_seq.nextval, '테스트a', 'test', 'text for test', sysdate, 1);
+insert into tp_board (tp_b_no, tp_b_writer, tp_b_title, tp_b_txt, tp_b_when, tp_b_notice) values (tp_board_seq.nextval, '테스트a', 'test', 'text for test', sysdate, 0);
+
 drop table tp_board cascade constraint purge
 drop table tp_reply cascade constraint purge
 drop sequence tp_board_seq 
