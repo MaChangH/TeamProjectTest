@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>HOME</h1>
-	<!-- C:\MaProgramming\Spring\TeamProjectWorkSpace -->
+	
 </body>
 </html>

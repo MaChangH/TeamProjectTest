@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-C:\MaProgramming\Spring\TeamProjectWorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2579647588.index
-\TeamProject\src\main\java
-C:\MaProgramming\Spring\TeamProjectWorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\735436913.index
-\TeamProject\src\main\java
-C:\MaProgramming\Spring\TeamProjectWorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3527548781.index
-\TeamProject\src\main\java
